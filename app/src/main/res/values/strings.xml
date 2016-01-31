@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JGaedkeLab12_1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact"></string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="et_lastName">Required</string>
+    <string name="tv_email">Email:</string>
+    <string name="tv_phone">Phone:</string>
+    <string name="hint">(required)</string>
+    <string name="addButton">Add</string>
+    <string name="no_contact">No Contacts to display</string>
+    <string name="add_tb_title">Contact Info</string>
+    <string name="tv_contactsAdded">Contacts added:</string>
+    <string name="tv_no_contacts">0</string>
+</resources>
